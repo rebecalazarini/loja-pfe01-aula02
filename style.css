@@ -143,3 +143,9 @@ input{
 .oculto{
     display: none;
 }
+
+@media screen and ( max-width: 770px){
+   .janela {
+    min-width: 90%;
+   }
+}
