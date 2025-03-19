@@ -3,7 +3,7 @@
     "id":1,
     "produto":"Vestido",
     "descricao":"Vestido longo preto",
-    "preco":30.0,
+    "preco":30.00,
     "imagem":"https://s.emporionm.com.br/import/longos-pt2.zip/NM002704_1.jpg"
 },
 {
@@ -24,7 +24,7 @@
     "id":4,
     "produto":"Calça flaire",
     "descricao":"Calça flaire ",
-    "preco":32.0,
+    "preco":32.60,
     "imagem":"https://images.tcdn.com.br/img/img_prod/1057816/calca_flare_julia_1577_1_31e82800a7f13007260390dfba220192.jpeg"
 },
 {
@@ -38,7 +38,7 @@
     "id":6,
     "produto":"Camisa social masculina",
     "descricao":"Camisa social masculina azul",
-    "preco":80.0,
+    "preco":80.20,
     "imagem":"https://camisariafascynios.vtexassets.com/arquivos/ids/616761/Camisa-Social-Algodao-Misto-AZUL-068-19139-01.jpg?v=638500910779870000"
 },
 {
@@ -59,28 +59,28 @@
     "id":9,
     "produto":"Vestido longo",
     "descricao":"Vestido longo liso rosa",
-    "preco":30.0,
+    "preco":30.80,
     "imagem":"https://images.tcdn.com.br/img/img_prod/1301289/vestido_longo_festa_genebra_785_1_72eac9fab9e7960f2fd772e536710352.jpg"
 },
 {
     "id":10,
     "produto":"Camiseta Regata",
     "descricao":"Camiseta regata masculina preta",
-    "preco":30.0,
+    "preco":30.00,
     "imagem":"https://emilioatacado.vtexassets.com/arquivos/ids/155954/20210309131602_7669992331_D.png?v=638198484064870000"
 },
 {
     "id":11,
     "produto":"Vestido longo transversal",
     "descricao":"Vestido longo transversal longo festa rose",
-    "preco":30.0,
+    "preco":90.99,
     "imagem":"https://acdn-us.mitiendanube.com/stores/005/413/161/products/vestido-longo-rose-milos-2f07b0b9954349a09817361813519256-1024-1024.jpg"
 },
 {
     "id":12,
     "produto":"Conjunto azul bebe",
     "descricao":"Conjunto aul bebe saia e cropped",
-    "preco":30.0,
+    "preco":45.99,
     "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6vQgX5VAUJPNHUgC49mXd8bZz2_RYlmCrw&s"
 }
 
