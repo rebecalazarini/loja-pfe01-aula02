@@ -22,10 +22,10 @@
 },
 {
     "id":4,
-    "produto":"Calça flaire",
-    "descricao":"Calça flaire ",
+    "produto":"Calça jeans",
+    "descricao":"Calça jeans ",
     "preco":32.60,
-    "imagem":"https://images.tcdn.com.br/img/img_prod/1057816/calca_flare_julia_1577_1_31e82800a7f13007260390dfba220192.jpeg"
+    "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgEuW3LvYinvlm69KE1tVmMyZVZX6LUFogzErTrtP5Dk8L2TqJPb5uwRBNQCDik18A58&usqp=CAU"
 },
 {
     "id":5,
@@ -39,7 +39,7 @@
     "produto":"Camisa social masculina",
     "descricao":"Camisa social masculina azul",
     "preco":80.20,
-    "imagem":"https://camisariafascynios.vtexassets.com/arquivos/ids/616761/Camisa-Social-Algodao-Misto-AZUL-068-19139-01.jpg?v=638500910779870000"
+    "imagem":"https://tfdcdd.vtexassets.com/arquivos/ids/159985/camisa-social-elastano-marinho-still.png?v=638258227373230000"
 },
 {
     "id":7,
