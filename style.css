@@ -36,6 +36,7 @@ main{
     overflow-y: auto;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     overflow-y: auto;
 }
 
