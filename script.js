@@ -15,6 +15,7 @@ function mostrarCards() {
             <h3>${p.produto}</h3>
             <img src="${p.imagem}" alt="${p.produto}">
             <p>Preco: ${p.preco}</p>
+            <p>Descricao: ${p.descricao}<p>
             <button>Detalhes</button>
         </div>
         `;
